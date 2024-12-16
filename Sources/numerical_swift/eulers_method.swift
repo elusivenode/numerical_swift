@@ -3,7 +3,7 @@
 import Foundation
 
 // Euler's Method function with a generic f(x, y)
-func eulerMethod(
+public func eulerMethod(
     x0: Double,
     y0: Double,
     h: Double,
